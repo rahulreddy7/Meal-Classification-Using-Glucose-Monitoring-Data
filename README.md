@@ -1,10 +1,8 @@
-# CSE 572 - Assignment 2
-
 ## Authors
+* Rahul Reddy Sarikonda
 * Semira Chung
 * Baani Khurana
 * Archana Narasimha Prasad
-* Rahul Reddy Sarikonda
 
 ## Built With
 * Matlab
@@ -30,9 +28,3 @@
 ## Information About the Project
 * Each model will be stored in its corresponding .mat file (e.g. Linear SVM will be stored in linearSVM.mat file).
 * Our features remain the same -- zero-crossing, RMS, coefficient variation, and FFT.
-
-## Models Used
-* Linear SVM (Archana Narasimha Prasad)
-* Polynomial SVM (Baani Khurana)
-* Gaussian SVM (Semira Chung)
-* Naive Bayes (Rahul Reddy Sarikonda)
